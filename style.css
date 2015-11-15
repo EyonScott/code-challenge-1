@@ -1,0 +1,26 @@
+body {
+	background-color: MistyRose;
+	font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+	text-align: center; 
+	text-decoration: underline;	
+}
+
+table {
+	margin: auto;
+	text-align: center;
+	color: black;
+	background-color: #fff;
+    background-color: rgba(255,255,255,0.5);
+    border: double;
+}
+button {
+	margin: auto;
+}
+
+.partner-head {
+	text-decoration: underline;
+}
+
